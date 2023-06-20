@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&family=Work+Sans:wght@100&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* body {
+    background-color: #222;
+    color: #ffff;
+} */
+
+.b-font {
+    font-weight: bold;
+}
+
+.f-font {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.j-font {
+    font-family: 'Julius Sans One',
+}
+
+.w-font {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.max-width {
+    width: 100%;
+}
+
+.min-width {
+    width: 50%;
+}
+
+.R-radius {
+    border-radius: 50%;
+}
+
+.f-display {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
